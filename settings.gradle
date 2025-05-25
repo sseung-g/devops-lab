@@ -1,0 +1,5 @@
+rootProject.name = 'devopslab'
+
+include 'domain'
+include 'api'
+include 'common'
